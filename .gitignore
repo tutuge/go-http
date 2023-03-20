@@ -1,0 +1,9 @@
+
+./.idea
+/.idea/.gitignore
+/.idea/exception_es.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/exception_es.exe
+/go-exception.exe
